@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "MUN YUSIK"
   avatar           : "/assets/images/ttkst.jpg"
-  bio              : "<br><ul><li>2000.09  출생<li>2019.03  신성고등학교  졸업<li><b> 2020.03~ 성균관대학교  재학중</b>"
+  bio              : "<ul><li>2000.09  출생<li>2019.03  신성고등학교  졸업<li><b> 2020.03~ 성균관대학교  재학중</b>"
   location         : "Seoul, Republic of Korea"
   email            : "mys0904@g.skku.edu"
   links:
