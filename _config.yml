@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "MUN-YU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "2000.09 출생\n2019.03 신성고등학교 졸업 \n2020.03 ~ 성균관대학교 재학"
+  location         : "Seoul, Republic of South Korea"
+  email            : "mys0904@g.skku.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
