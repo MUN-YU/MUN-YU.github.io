@@ -3,9 +3,9 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "C Study"
-     url: https://github.com/MUN-YU/mun-yu.github.io/tree/master/c/
+     url: https://github.com/MUN-YU/
    - title: "Python Study"
-     url: https://github.com/MUN-YU/mun-yu.github.io/tree/master/python/
+     url: https://github.com/MUN-YU/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
