@@ -106,9 +106,7 @@ analytics:
 author:
   name             : "MUN YUSIK"
   avatar           : "/assets/images/ttkst.jpg"
-  online-comment   : "안녕하세요 성균관 대학교에서 소프트웨어학을 전공하고 있는 문유식이라고 합니다."
   bio              : "<br><ul><li>2000.09  출생<li>2019.03  신성고등학교  졸업<li><b> 2020.03~ 성균관대학교  재학중</b>"
-  prefer-programming language : "C, Python"
   location         : "Seoul, Republic of Korea"
   email            : "mys0904@g.skku.edu"
   links:
