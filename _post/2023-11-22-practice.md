@@ -1,5 +1,0 @@
----
-layout: single
-title: "포스팅 연습"
----
-#포스팅 연습
