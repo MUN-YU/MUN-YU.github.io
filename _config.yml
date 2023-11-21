@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "MUN-YU"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ttkst.jpg"
   bio              : "2000.09 출생\n2019.03 신성고등학교 졸업 \n2020.03 ~ 성균관대학교 재학"
   location         : "Seoul, Republic of South Korea"
   email            : "mys0904@g.skku.edu"
